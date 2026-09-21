@@ -1,0 +1,13 @@
+# Pinned to the versions used to build and test the project.
+# chromadb MUST match the version used in the notebook, otherwise the persisted store may not open.
+fastapi==0.141.1
+uvicorn[standard]==0.53.0
+pydantic==2.13.5
+pydantic-settings==2.15.0
+python-dotenv==1.2.2
+ollama==0.6.2
+chromadb==1.5.9
+sentence-transformers==6.1.0
+numpy==2.3.3
+httpx==0.28.1
+pytest==9.1.1

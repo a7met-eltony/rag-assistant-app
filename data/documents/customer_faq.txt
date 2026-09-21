@@ -1,0 +1,50 @@
+Helios Robotics - HX-200 Customer FAQ
+
+About the product
+What is the HX-200? The HX-200 is an autonomous warehouse robot that moves pallets, totes and racks inside warehouses and light-industrial buildings. It navigates with LiDAR and a stereo camera and is managed through the HX-Fleet console.
+
+What can it carry? The HX-200 has a payload capacity of 200 kg. It is not designed to carry people.
+
+Can it work outdoors? No. The enclosure is rated IP54, which protects against dust and splashes but not against rain or hosing down. The operating temperature range is 0 to 40 degrees Celsius. A cold-storage variant, the HX-200C, is planned for 2027 and is intended for temperatures from -25 to 10 degrees Celsius.
+
+How long does the battery last? About 8 hours per charge. A full charge takes 2.5 hours, and the robot returns to its dock automatically when the battery falls below 15%.
+
+Pricing and ordering
+How much does an HX-200 cost? The list price of an HX-200 is $24,500 per robot, excluding taxes, freight and optional accessories.
+
+Are there volume discounts? Orders of 5 to 9 robots receive a 4% discount, and orders of 10 or more robots receive an 8% discount. Discounts are applied to the list price on the quote.
+
+What are the payment terms? Standard payment terms are net 30 days from the invoice date. Leasing options with terms of 36 months are available through our financing partners.
+
+What does a replacement battery cost? A replacement battery costs $1,800 and can be installed only by a trained technician.
+
+Can we try the robot before buying? Yes. Qualified customers can join a pilot programme of 45 days with up to 3 robots. Pilot customers pay only for shipping and any damage beyond normal wear.
+
+Delivery and installation
+How long is the lead time? The standard lead time is 6 to 8 weeks from the order confirmation. Expedited delivery in 3 weeks is possible for a surcharge of 10% of the order value, subject to availability.
+
+Is installation included? Orders of 5 or more robots include 2 days of on-site commissioning by a Helios engineer. For smaller orders, commissioning can be booked separately, or customers can commission the robots themselves using the operator manual.
+
+How is the robot shipped? Robots are shipped on pallets by road or air freight, delivered at place (DAP) to the customer's site.
+
+Integration
+Which systems does the HX-200 integrate with? HX-Fleet provides a REST API and supports ROS 2. Ready-made connectors exist for SAP EWM and Oracle WMS. Custom integrations are possible through the API.
+
+How many robots can one site run? HX-Fleet can manage up to 250 robots per site, and a site map can cover up to 40,000 square metres.
+
+How does the robot get its map? An operator drives the robot manually through the facility at a maximum speed of 1.0 m/s to create a SLAM map. The map has a resolution of 5 cm and can be edited in the HX-Fleet console.
+
+Data and privacy
+Does the robot record video? The stereo camera is used only for navigation. Images are processed on the robot and are not stored or sent to Helios. Map data is stored in the customer's own HX-Fleet instance.
+
+Where is HX-Fleet hosted? Customers can choose a hosted service in the EU or in North America, or an on-premises installation.
+
+Warranty and support
+How long is the warranty? The standard warranty is 24 months from delivery, and the battery is covered for 36 months or 2,000 charge cycles. Details are in the Warranty and Support Terms.
+
+How do I get support? Standard support is available from 08:00 to 18:00 CET on weekdays. Premium support is available around the clock. Contact support@helios-robotics.example or use the customer portal.
+
+Do you offer training? Yes. The HX Operator Level 1 course lasts 4 hours and the Level 2 course for technicians lasts 8 hours.
+
+Sales contact
+For quotes and demonstrations, write to sales@helios-robotics.example. Please include the size of your facility, the number of robots you are planning to deploy and the systems you would like to integrate.

@@ -1,0 +1,5 @@
+# Pinned to the versions used to build and test the project.
+streamlit==1.64.0
+requests==2.33.1
+python-dotenv==1.2.2
+pytest==9.1.1

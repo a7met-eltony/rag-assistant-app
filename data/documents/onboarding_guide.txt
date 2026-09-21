@@ -1,0 +1,45 @@
+Helios Robotics - New Hire Onboarding Guide
+
+Welcome
+Welcome to Helios Robotics. This guide explains what to expect in your first weeks, who can help you and what we expect from you. Most questions are answered here, and the People Operations team answers the rest in the #ask-people-ops channel.
+
+Week 1
+Pick up your laptop from IT on day one. Engineers choose between a MacBook Pro 14-inch and a Lenovo ThinkPad X1 Carbon; other roles receive a standard business laptop. Mandatory security training must be completed within your first 5 working days. You will be assigned an onboarding buddy who meets you daily during the first week and weekly during the first month.
+
+On day one you will receive access to email, Slack, the Pulse HR portal and the systems needed for your role. Access to production systems is granted only after you have finished the security training. Your manager will walk you through the team's goals, and you will meet the wider team at a welcome lunch in the first week.
+
+Working model
+Helios follows a hybrid model with 3 days per week in the office. Core hours are 10:00 to 16:00 local time, and you are expected to be available for meetings during these hours. More details are in the Remote Work and Equipment Policy.
+
+Locations
+The headquarters is in Munich, Germany. Additional offices are located in Toronto and Singapore. The Munich office has the main robot test hall, which visitors and new hires can tour on request. Robot tests in the hall require safety shoes and a completed HX Operator Level 1 course.
+
+Your first 90 days
+Each new hire agrees a 30-60-90 day plan with their manager during the first week.
+- Days 1 to 30: learn the product, the tools and the team's processes. Complete the mandatory training and meet the people you work with most.
+- Days 31 to 60: take ownership of a first project or a set of tasks with your buddy's support.
+- Days 61 to 90: work independently and present your results to your team.
+
+Probation
+The probation period is 6 months. Your manager holds a review with you after 3 months and a final review at the end of month 6. During probation, either side can end the employment with a notice period of 2 weeks. After probation, the notice period follows your contract and local law.
+
+Benefits and growth
+Every employee has a learning budget of $1,500 per year for courses and conferences. Health insurance starts on your first day. The company matches pension contributions up to 5% of your base salary. Employees who refer a successful hire receive a referral bonus of $2,000, paid after the new colleague has completed their probation.
+
+Company rhythm
+The whole company meets for an all-hands session at the start of every quarter. The annual company offsite takes place in September. Every Friday afternoon is a focus time without internal meetings; see the Remote Work and Equipment Policy for details.
+
+Who to ask
+- Laptop, accounts and access problems: the IT service desk, #it-help.
+- Contracts, payroll, leave and benefits: People Operations, #ask-people-ops.
+- Security questions and suspected incidents: security@helios-robotics.example.
+- Expense questions: Finance, #ask-finance.
+- Anything else: your onboarding buddy or your manager.
+
+Checklist for your first week
+- Collect your laptop and log in with single sign-on.
+- Set up multi-factor authentication with a hardware key or authenticator app.
+- Complete the security training.
+- Meet your onboarding buddy and your manager.
+- Read the Leave Policy, the Expense Policy and the Security Policy.
+- Agree your 30-60-90 day plan.

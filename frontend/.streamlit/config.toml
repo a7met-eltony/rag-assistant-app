@@ -1,0 +1,8 @@
+[server]
+# Headless: skips Streamlit's first-run "Enter your email" prompt. run.py opens the browser for you.
+headless = true
+address = "127.0.0.1"
+port = 8501
+
+[browser]
+gatherUsageStats = false

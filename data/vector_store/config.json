@@ -1,0 +1,43 @@
+{
+  "data_dir": "D:/ITI Computer Vision/Final Project/data/documents",
+  "vector_store_dir": "D:/ITI Computer Vision/Final Project/data/vector_store",
+  "chunk_size": 800,
+  "chunk_overlap": 150,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_batch_size": 64,
+  "collection_name": "rag_chunks",
+  "distance_metric": "cosine",
+  "top_k": 5,
+  "min_similarity": 0.25,
+  "ollama_model": "llama3.2",
+  "temperature": 0.0,
+  "num_ctx": 4096,
+  "supported_extensions": [
+    ".pdf",
+    ".txt",
+    ".md"
+  ],
+  "embedding_dimension": 384,
+  "num_chunks": 86,
+  "num_documents": 10,
+  "corpus_fingerprint": "e04b871f1922a334a45db8e36c98ff4b8a6ecfc19e0a492cd32a4d6ff88581d8",
+  "built_at_utc": "2026-09-20T09:09:24+00:00",
+  "prompt": {
+    "system_prompt": "You are a careful assistant that answers questions strictly from the numbered context excerpts provided.\n\nRules:\n1. Use ONLY information found in the context. Never use outside knowledge, and never guess.\n2. Cite the excerpt(s) that support every factual statement using square-bracket tags such as [S1] or [S2][S3].\n3. If the context does not contain the answer, reply with exactly this sentence and nothing else: I don't know based on the provided documents.\n4. Be concise: one to three sentences.",
+    "user_template": "Context excerpts:\n{context}\n\nQuestion: {question}\n\nAnswer (remember the [S#] citations):",
+    "refusal_sentence": "I don't know based on the provided documents.",
+    "citation_format": "[S#] -> numbered context excerpts"
+  },
+  "evaluation": {
+    "n_questions": 13,
+    "correct": 12,
+    "hallucinated": 0,
+    "missed_false_refusal": 1,
+    "accuracy": 0.923,
+    "retrieval_hit_rate_answerable": 0.909,
+    "correct_refusals_unanswerable": "2/2",
+    "median_latency_s": 4.03
+  },
+  "notebook": "rag_pipeline.ipynb",
+  "exported_at_utc": "2026-09-21T16:45:02+00:00"
+}

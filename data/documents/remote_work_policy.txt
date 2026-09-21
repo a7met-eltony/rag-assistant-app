@@ -1,0 +1,51 @@
+Helios Robotics - Remote Work and Equipment Policy
+
+1. Purpose
+Helios Robotics combines the benefits of working together in person with the flexibility of working from home. This policy describes the hybrid working model, the rules for working from other countries and the equipment and allowances the company provides.
+
+2. Hybrid working model
+2.1 Office days
+Employees work in the office 3 days per week. The default anchor days are Tuesday, Wednesday and Thursday, when teams are expected to be together. Teams may agree a different pattern with their manager, provided that everyone spends 3 days per week in the office. Roles that need physical access to robots, such as test engineers and field technicians, may need more office days.
+
+2.2 Core hours
+Core hours are 10:00 to 16:00 local time. Employees are expected to be reachable during core hours and to attend meetings scheduled in this window. Outside core hours, employees can arrange their working time flexibly within the limits of their contract and local law.
+
+2.3 Focus Friday
+On Fridays, no internal meetings may be scheduled after 13:00. The time is meant for focused work and is not a reason to avoid customer meetings, incidents or on-call duties.
+
+2.4 Working across time zones
+Helios teams work across Munich (CET), Toronto (Eastern Time) and Singapore (SGT). Cross-office meetings should be scheduled in the overlap window between 14:00 and 17:00 CET where possible. Meeting notes and decisions must be written down so that colleagues in other time zones can follow them.
+
+3. Working from another country
+Employees may work remotely from another country for up to 20 days per calendar year. The trip must be approved by the line manager and by People Operations at least 4 weeks in advance, because tax, social security and immigration rules can differ between countries. Employees may not work from countries on the company's restricted list and must not access Restricted data from abroad. Working from another country for more than 20 days is possible only with a special agreement and is granted rarely.
+
+4. Equipment and allowances
+4.1 Home-office setup
+Every employee receives a one-time home-office allowance of $800 for a desk, chair, monitor or similar equipment. The allowance can be claimed after the end of the probation period, and receipts are required. Equipment bought with the allowance belongs to the employee.
+
+4.2 Internet and phone
+The company pays an internet allowance of $40 per month for employees who work from home at least 2 days per week. Company mobile phones are provided to on-call engineers and to roles that need them.
+
+4.3 Company laptops and accessories
+The company provides a laptop, a docking station, a keyboard, a mouse and a headset. Damaged or lost equipment must be reported to IT immediately. Employees return all company equipment within 5 working days after leaving the company.
+
+4.4 Ergonomics
+Employees can request an ergonomic assessment of their home workspace once per year. The assessment is done by video call with a certified specialist and any recommended equipment can be paid from the home-office allowance.
+
+5. Security requirements when working remotely
+Employees must follow the Information Security Policy at all times. In particular, a VPN is required on public and untrusted networks, all devices must lock after 5 minutes of inactivity, and Restricted data may never be stored on personal devices. Employees should not work on confidential matters in public places where screens or conversations can be seen or heard.
+
+6. Travel time
+Commuting time between home and the office is not working time and is not paid. Travel for business, including travel time outside core hours, is handled under the Travel and Expense Policy.
+
+7. Expenses for office days
+Costs of commuting to the office are the employee's responsibility. The company offers a subsidised public transport ticket in Munich and Toronto; details are available from People Operations.
+
+8. Frequently asked questions
+How many days per week do I work in the office? 3 days, with Tuesday, Wednesday and Thursday as default anchor days.
+
+How many days can I work from another country? Up to 20 days per calendar year, with prior approval.
+
+How much is the home-office allowance? A one-time $800, claimable after probation.
+
+When are internal meetings not allowed? After 13:00 on Fridays.

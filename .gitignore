@@ -1,0 +1,32 @@
+# ---------------------------------------------------------------- Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------- Secrets and local settings
+# Commit .env.example (a template), never the real .env
+.env
+
+# ---------------------------------------------------------------- Logs
+*.log
+
+# ---------------------------------------------------------------- OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+
+# ---------------------------------------------------------------- Data
+# The corpus (10 small documents, ~100 KB) and the vector store (~1.3 MB) are SMALL, so they ARE committed:
+# a fresh clone can run the app without rebuilding anything.
+# If you replace them with a large corpus, uncomment these lines and explain in the README how to obtain the data:
+# data/documents/
+# data/vector_store/
+
+# Duplicate copy of the vector store made for the Docker build (the backend also finds data/vector_store on its own)
+backend/data/vector_store/*
+!backend/data/vector_store/.gitkeep
