@@ -264,3 +264,8 @@ Ollama keeps running on the host machine (the image points to `http://host.docke
 - Plain dense retrieval can miss passages whose key terms are spread over several documents (see Q3). Hybrid retrieval and a reranker are the next improvements.
 - Scanned PDFs need OCR before they can be indexed.
 - The app answers one question at a time; it does not use earlier turns of the conversation.
+
+
+
+  ## Demo Video
+  [Watch the walkthrough](https://drive.google.com/drive/folders/1BxqXzvq5HADLyAiqbDxuFTMmjlWIQ8Kw?usp=sharing)
